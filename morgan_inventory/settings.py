@@ -26,9 +26,9 @@ SECRET_KEY = 'django-insecure-p))y%wss6l9#d%n1tsg%s!ydph90jz^%)00-7z)p9zh-t+)9(f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['morgan-electronics-ims.onrender.com','*']
 
-#CSRF_TRUSTED_ORIGINS = []
+CSRF_TRUSTED_ORIGINS = ['https://morgan-electronics-ims.onrender.com']
 
 
 # Application definition
