@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(145, 0, 0);
+}
+    
+
+.content-section {
+    background: #000000;
+    margin: 40px;
+    padding: 1.5rem 1.5rem;
+    border-radius: 7px;
+    font-family: sans-serif;
+    
+}
+
+.navbar-brand {
+	margin:0 !important;
+	padding: 10px 30px 10px 90px !important;
+}
+
+
+.form-group {
+	margin:0 !important;
+	padding: 10px 30px 10px 10px !important;
+}
+
+
+
+.card {
+	margin: 10px; !important;
+	padding: 5px 5px 5px 5px !important;
+}
