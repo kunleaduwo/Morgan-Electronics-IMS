@@ -1,0 +1,12 @@
+{% extends '../layout.html' %}
+{% load crispy_forms_tags %}
+{% load static %}
+
+{% block content %}
+<div class="content-section">
+    <small class="text-muted">
+            You have logged out successfully. <a class="text-success" href="{% url 'login' %}">Click here to login</a>
+    </small>
+          
+</div>
+{% endblock %}

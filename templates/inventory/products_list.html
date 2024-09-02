@@ -1,0 +1,39 @@
+{% extends '../layout.html' %}
+{% load static %}
+
+{% block content %}
+
+<div class="content-section">
+    <div class="text-white">
+        <h2>Morgan Electronics Inventory</h2>
+        <legend class="border-bottom pd-2 mb-4 text-center text-white"></legend>
+    </div>
+    <table class="table table-striped table-bordered table-hovet">
+        <thead>
+            <tr class="text-success">
+                <th scope="col">No:</th>
+                <th scope="col">PRODUCT NAME</th>
+                <th scope="col">STOCK QTY</th>
+                <th scope="col">QTY SOLD</th>
+                <th scope="col">COST</th>
+                <th scope="col">SALES</th>
+                <th scope="col">STOCK DATE</th>
+                <th scope="col">LAST SALES DATE</th>                     
+            </tr>
+        </thead>
+        <tbody>
+            {% for inventory in inventories %}
+                <tr class="text-white" style="cursor:pointer; cursor: hand;" onclick="window.location = `{% url 'product_details' inventory.id %}`">
+                    <th scope="row">{{ forloop.counter }}</th>
+                    <th scope="row">{{ inventory.product_name }}</th>
+                    <th scope="row">{{ inventory.stock_quantity }}</th>
+                    <th scope="row">{{ inventory.sold_quantity }}</th>
+                    <th scope="row">{{ inventory.product_cost }}</th>
+                    <th scope="row">{{ inventory.sales }}</th>
+                    <th scope="row">{{ inventory.stock_date }}</th>
+                    <th scope="row">{{ inventory.last_sales_date }}</th>
+                </tr>
+            {% endfor %}
+        </tbody>
+</div>
+{% endblock %}

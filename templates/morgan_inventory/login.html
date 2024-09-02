@@ -1,0 +1,27 @@
+{% extends '../layout.html' %}
+{% load crispy_forms_tags %}
+{% load static %}
+
+{% block content %}
+     <div class="content-section">
+          {{ form.media }}
+          <form method="POST">
+               <fieldset>
+                    <div class="text-white">
+                         <h2>Morgan Electronics Ltd</h2>
+                     </div>
+                     <legend class="border-bottom pd-2 mb-4"></legend>
+                     <div class="text-success">
+                         <h4>LOGIN</h4>
+                     </div>
+                   {% csrf_token %}
+                   <div class="form-group text-white">
+                      {{ form|crispy }}
+                   </div>
+                   <div class="form-group pt-4 text-white">
+                         <button class="btn btn-outline-success text-white" type="submit">Login</button>
+                   </div>
+               </fieldset>
+          </form>
+     </div>
+{% endblock %}
