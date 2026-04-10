@@ -2,26 +2,46 @@
 An inventory management system
 
 <hr>
-This project is a web-based Inventory Management System developed for Morgan Electronics Ltd, a company specializing in the sale of a wide range of electronic products. The primary objective of the system is to streamline business operations by digitizing inventory tracking, sales management, and financial record-keeping, eliminating the need for manual, paper-based processes.
+<h2>Project Overview</h2>
 
-The system provides comprehensive functionality for managing daily business activities, including real-time inventory tracking, automated stock updates based on sales, and detailed sales reporting on a daily and weekly basis. It also supports efficient handling of financial transactions and improves operational transparency.
+<p>
+This project is a web-based Inventory Management System developed for Morgan Electronics Ltd, 
+a company specializing in the sale of a wide range of electronic products. The primary objective 
+of the system is to streamline business operations by digitizing inventory tracking, sales 
+management, and financial record-keeping, eliminating the need for manual, paper-based processes.
+</p>
 
-Key features of the system include:
+<p>
+The system provides comprehensive functionality for managing daily business activities, including 
+real-time inventory tracking, automated stock updates based on sales, and detailed sales reporting 
+on a daily and weekly basis. It also supports efficient handling of financial transactions and 
+improves operational transparency.
+</p>
 
-Inventory tracking and stock management
-Automated updates to inventory based on sales data
-Generation of daily and weekly sales reports
-Classification and organization of inventory items
-Support for both purchasing and direct sales workflows
-Improved accuracy in record-keeping, reducing human error
-Enhanced quality control for consumer goods transactions
+<p><strong>Key features of the system include:</strong></p>
 
-By integrating these features into a single platform, the system helps Morgan Electronics Ltd improve efficiency, maintain accurate records, and make informed business decisions.
+<ul>
+  <li>Inventory tracking and stock management</li>
+  <li>Automated updates to inventory based on sales data</li>
+  <li>Generation of daily and weekly sales reports</li>
+  <li>Classification and organization of inventory items</li>
+  <li>Support for both purchasing and direct sales workflows</li>
+  <li>Improved accuracy in record-keeping, reducing human error</li>
+  <li>Enhanced quality control for consumer goods transactions</li>
+</ul>
 
-Technologies Used
-Python
-Django
-JavaScript
+<p>
+By integrating these features into a single platform, the system helps Morgan Electronics Ltd 
+improve efficiency, maintain accurate records, and make informed business decisions.
+</p>
+
+<h2>Technologies Used</h2>
+
+<ul>
+  <li>Python</li>
+  <li>Django</li>
+  <li>JavaScript</li>
+</ul>
 
 <hr>
 <br>
