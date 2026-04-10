@@ -7,7 +7,7 @@ The goal of this project is to create a web-based inventory management system fo
 
 This system generates sales and reports on a daily or weekly basis, keeps inventory details, maintains stock, and updates inventory depending on sales information. Classifying distinct elements for the inventory and sales management system. Resolving issues with purchasing and direct sales management. Ensuring quality control in a business that deals with consumer goods transactions.It helps the business in reducing mistakes made when recording its inventory.
 
-This project was developed using Python, Django, Postgresql, JavaScript. 
+This project was developed using Python, Django, JavaScript. 
 
 
 <hr>
