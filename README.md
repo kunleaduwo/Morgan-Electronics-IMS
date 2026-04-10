@@ -9,15 +9,12 @@ This system generates sales and reports on a daily or weekly basis, keeps invent
 
 This project was developed using Python, Django, JavaScript. 
 
-
 <hr>
 <br>
-<img width="1203" height="703" alt="0_Inventory_login" src="https://github.com/user-attachments/assets/66029702-1216-4394-b43e-430ce2b9c0f0" />
-<img width="1192" height="680" alt="1_Inventory_list" src="https://github.com/user-attachments/assets/ac889e87-8b6b-4056-b883-f91c3dfff0f4" />
-<img width="1278" height="709" alt="2_Inventory_product_detail" src="https://github.com/user-attachments/assets/acbcfb9b-e311-4f81-a043-00619d071cc6" />
-<img width="1273" height="711" alt="3_Inventory_dashboard_sales_trend" src="https://github.com/user-attachments/assets/4c2295a5-8c96-4bdf-8a2a-519b1c246cf5" />
-<img width="1255" height="709" alt="4_Inventory_best_selling_products" src="https://github.com/user-attachments/assets/512253b4-4c89-4261-b68d-511e45eb80e3" />
-<img width="1262" height="710" alt="5_Inventory_highest_products" src="https://github.com/user-attachments/assets/90a3d03f-4b37-4432-8dd3-e0bf9917e330" />
-<img width="1264" height="709" alt="6_Inventory_add_product" src="https://github.com/user-attachments/assets/9a03d5f2-83af-4fd4-924a-326d2c03e33c" />
-
-
+<img width="1203" height="628" alt="0_Inventory_login" src="https://github.com/user-attachments/assets/86f92df7-3862-4a1b-aae7-cf3333b0b75a" />
+<img width="1192" height="608" alt="1_Inventory_list" src="https://github.com/user-attachments/assets/7296027d-cae8-4e01-8a31-11ac6a626602" />
+<img width="1278" height="637" alt="2_Inventory_product_detail" src="https://github.com/user-attachments/assets/614ab43a-fbf3-41ef-9a09-dbbd00bad68a" />
+<img width="1273" height="648" alt="3_Inventory_dashboard_sales_trend" src="https://github.com/user-attachments/assets/9d933a32-67ef-42d8-b000-e54748fb3580" />
+<img width="1255" height="640" alt="4_Inventory_best_selling_products" src="https://github.com/user-attachments/assets/1e48bc49-b34e-4eb5-9bb4-aebb478c8fb8" />
+<img width="1262" height="638" alt="5_Inventory_highest_products" src="https://github.com/user-attachments/assets/aca12e62-e6e4-4f6b-a60f-67baa4db54be" />
+<img width="1264" height="637" alt="6_Inventory_add_product" src="https://github.com/user-attachments/assets/c776f670-56f2-48a1-8e75-c0e84e794180" />
