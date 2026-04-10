@@ -2,8 +2,6 @@
 An inventory management system
 
 <hr>
-Project Overview
-
 This project is a web-based Inventory Management System developed for Morgan Electronics Ltd, a company specializing in the sale of a wide range of electronic products. The primary objective of the system is to streamline business operations by digitizing inventory tracking, sales management, and financial record-keeping, eliminating the need for manual, paper-based processes.
 
 The system provides comprehensive functionality for managing daily business activities, including real-time inventory tracking, automated stock updates based on sales, and detailed sales reporting on a daily and weekly basis. It also supports efficient handling of financial transactions and improves operational transparency.
