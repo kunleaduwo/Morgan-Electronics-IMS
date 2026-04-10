@@ -2,14 +2,28 @@
 An inventory management system
 
 <hr>
-The goal of this project is to create a web-based inventory management system for Morgan Electronics Ltd, known for selling all kinds of electronics products. They required a method to track sales and inventory, handle all of their everyday tasks, including financial transactions, without having to carry around any hard copy documents.  
-<br>
+Project Overview
 
+This project is a web-based Inventory Management System developed for Morgan Electronics Ltd, a company specializing in the sale of a wide range of electronic products. The primary objective of the system is to streamline business operations by digitizing inventory tracking, sales management, and financial record-keeping, eliminating the need for manual, paper-based processes.
 
+The system provides comprehensive functionality for managing daily business activities, including real-time inventory tracking, automated stock updates based on sales, and detailed sales reporting on a daily and weekly basis. It also supports efficient handling of financial transactions and improves operational transparency.
 
-This system generates sales and reports on a daily or weekly basis, keeps inventory details, maintains stock, and updates inventory depending on sales information. Classifying distinct elements for the inventory and sales management system. Resolving issues with purchasing and direct sales management. Ensuring quality control in a business that deals with consumer goods transactions.It helps the business in reducing mistakes made when recording its inventory.
+Key features of the system include:
 
-This project was developed using Python, Django, JavaScript. 
+Inventory tracking and stock management
+Automated updates to inventory based on sales data
+Generation of daily and weekly sales reports
+Classification and organization of inventory items
+Support for both purchasing and direct sales workflows
+Improved accuracy in record-keeping, reducing human error
+Enhanced quality control for consumer goods transactions
+
+By integrating these features into a single platform, the system helps Morgan Electronics Ltd improve efficiency, maintain accurate records, and make informed business decisions.
+
+Technologies Used
+Python
+Django
+JavaScript
 
 <hr>
 <br>
