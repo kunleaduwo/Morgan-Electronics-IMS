@@ -41,6 +41,8 @@ improve efficiency, maintain accurate records, and make informed business decisi
   <li>Python</li>
   <li>Django</li>
   <li>JavaScript</li>
+  <li>CSS</li>
+  <li>HTML5</li>
 </ul>
 
 <hr>
