@@ -1,11 +1,11 @@
-# Morgan-Electronics-IMS
+# Morgan-Electronics
 A Stock Management & Sales Tracking System
 
 <hr>
 <h2>Project Overview</h2>
 
 <p>
-This project is a web-based Inventory Management System developed for Morgan Electronics Ltd, 
+This project is a web-based Stock Management & Sales Tracking System developed for Morgan Electronics Ltd, 
 a company specializing in the sale of a wide range of electronic products. The primary objective 
 of the system is to streamline business operations by digitizing inventory tracking, sales 
 management, and financial record-keeping, eliminating the need for manual, paper-based processes.
