@@ -1,5 +1,5 @@
 # Morgan-Electronics-IMS
-An Inventory system
+A Stock Management & Sales Tracking System
 
 <hr>
 <h2>Project Overview</h2>
