@@ -1,5 +1,5 @@
 # Morgan-Electronics-IMS
-An inventory management system
+An Inventory system
 
 <hr>
 <h2>Project Overview</h2>
